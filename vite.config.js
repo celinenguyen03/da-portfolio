@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-      base: "/da-portfolio"
   ],
+  base: "/da-portfolio",
 })
