@@ -17,7 +17,7 @@ const navLinks = [
     },
     {
         name: "Resume",
-        link: "/public/CelineNguyenResume_4_25_25.pdf",
+        link: "/CelineNguyenResume_4_25_25.pdf",
         target: "_blank",
         rel: "noopener noreferrer"
     },

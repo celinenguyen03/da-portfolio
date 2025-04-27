@@ -1,40 +1,6 @@
-# React + Vite Portfolio
+# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-## How to Revert Git Initialization
-
-If you've run `git init` and your files are showing as red in your Git client, this means Git has created a repository and is showing all files as untracked. To revert this:
-
-### Option 1: Remove the .git directory (Recommended)
-
-In Windows PowerShell or Command Prompt:
-```
-Remove-Item -Recurse -Force .git
-```
-
-In Git Bash or other Unix-like terminals:
-```
-rm -rf .git
-```
-
-This will completely remove the Git repository without affecting your project files.
-
-### Option 2: If you want to keep using Git but reset the status
-
-If you want to keep using Git but just want to clear the current status:
-1. Add all files to Git tracking:
-   ```
-   git add .
-   ```
-2. Commit the changes:
-   ```
-   git commit -m "Initial commit"
-   ```
-
-This will make your files stop appearing as red.
-
-## Original Vite Documentation
 
 Currently, two official plugins are available:
 
